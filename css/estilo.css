@@ -4,7 +4,11 @@
     }
     
     .cabecalho {
+<<<<<<< HEAD
         margin-left: 31%;
+=======
+        margin-left: 30%;
+>>>>>>> df8ad323dc24041ba235bb19619de3d7ae7001f9
         text-shadow: 2px 3px 7px silver;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
