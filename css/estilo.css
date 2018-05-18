@@ -4,7 +4,7 @@
     }
     
     .cabecalho {
-        margin-left: 30%;
+        margin-left: 10%;
         text-shadow: 2px 3px 7px silver;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
@@ -13,6 +13,7 @@
         margin-left: 50%;
         background-color: #aca8a8;
         margin-right: 9%;
+        box-shadow: 3px 5px 20px #CDCDCD;
     }
     
     nav li {
@@ -35,7 +36,6 @@
         -moz-transform: scale(2.0);
         -webkit-transform: scale(2.0);
         transform: scale(2.0);
-        background: silver;
     }
     
     section {
