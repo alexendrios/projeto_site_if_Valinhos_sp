@@ -102,3 +102,43 @@
         text-indent: 3%;
         text-shadow: 2px 5px 3px #aca8a8;
     }
+    /**
+    * Personalização sobre
+    */
+    
+    .sobre {
+        float: left;
+        width: 40%;
+        padding: 2%;
+    }
+    
+    .sobre h1 {
+        font-size: 25pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .sobre p {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    .sobreinfo {
+        float: right;
+        width: 40%;
+        padding-right: 6%;
+        padding-top: 3%;
+    }
+    
+    .sobreinfo h1 {
+        font-size: 25pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .sobreinfo ul {
+        box-shadow: 2px 3px 25px #aca8a8;
+        font-size: 25pt;
+    }
+    
+    .sobreinfo li {
+        list-style-type: disc;
+        display: list-item;
+    }
