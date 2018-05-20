@@ -4,11 +4,7 @@
     }
     
     .cabecalho {
-<<<<<<< HEAD
-        margin-left: 31%;
-=======
-        margin-left: 30%;
->>>>>>> df8ad323dc24041ba235bb19619de3d7ae7001f9
+        margin-left: 10%;
         text-shadow: 2px 3px 7px silver;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
@@ -17,6 +13,7 @@
         margin-left: 50%;
         background-color: #aca8a8;
         margin-right: 9%;
+        box-shadow: 3px 5px 20px #CDCDCD;
     }
     
     nav li {
@@ -39,7 +36,6 @@
         -moz-transform: scale(2.0);
         -webkit-transform: scale(2.0);
         transform: scale(2.0);
-        background: silver;
     }
     
     section {
@@ -72,4 +68,37 @@
     
     a {
         text-decoration: none;
+    }
+    /**
+    * Personalização index
+    */
+    
+    .principal {
+        float: left;
+        width: 40%;
+        padding: 2%;
+    }
+    
+    .principal figcaption {
+        margin-top: 5%;
+        font-size: 12pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: italic;
+        text-align: center;
+        box-shadow: 2px 15px 20px #aca8a8;
+    }
+    
+    .info {
+        float: right;
+        width: 40%;
+        padding-right: 6%;
+        padding-top: 9%;
+    }
+    
+    .info p {
+        font-size: 20pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: justify;
+        text-indent: 3%;
+        text-shadow: 2px 5px 3px #aca8a8;
     }
