@@ -142,3 +142,39 @@
         list-style-type: disc;
         display: list-item;
     }
+    /**
+    * Personalização formação
+    */
+    
+    .graduacao {
+        float: left;
+        width: 33.33%;
+        padding: 1%;
+    }
+    
+    .graduacao h1 {
+        font-size: 25pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .mba {
+        float: left;
+        width: 30%;
+        padding: 1%;
+    }
+    
+    .mba h1 {
+        font-size: 25pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .especializacao {
+        float: right;
+        width: 30%;
+        padding-right: 2%;
+    }
+    
+    .especializacao h1 {
+        font-size: 25pt;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
