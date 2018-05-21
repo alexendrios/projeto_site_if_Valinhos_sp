@@ -222,3 +222,26 @@
         -webkit-transform: scale(5.0);
         transform: scale(5.0);
     }
+    /**
+    * Personalização histórico
+    */
+    
+    .desenvolvimento {
+        float: left;
+        width: 40%;
+        padding-left: 15px;
+    }
+    
+    .desenvolvimento ol {
+        box-shadow: 3px 10px 25px #aca8a8;
+    }
+    
+    .desenvolvimento li {
+        display: list-item;
+        list-style-type: upper-roman;
+    }
+    
+    .desenvolvimento2 {
+        float: right;
+        width: 50%;
+    }
